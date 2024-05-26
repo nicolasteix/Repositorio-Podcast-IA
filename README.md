@@ -1,7 +1,7 @@
 # Repositorio-Podcast-IA
 
 
-
+<p><a href="https://github.com/nicolasteix/Repositorio-Podcast-IA/blob/cea010e94fec21f78306ab005169705134953fed/video/Video%20IA.mp4">Clique Para Ver o Vídeo</a></p>
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
